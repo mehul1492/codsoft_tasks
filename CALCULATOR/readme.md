@@ -1,9 +1,11 @@
-# PASSWORD GENERATOR
+# SIMPLE CALCULATOR
 
 ## DESCRIPTION
-This project is a password generator developed using python. It creates strong and random passwords based on the length specified by the user which can be used for online accounts and security as they are difficult to guess.
+This ia a simple calculator developed using Python. It performs basic arithmetic operations such as addition, subtraction , multiplication, and division by entering two numbers and selecting the desired operations.
 
 ## FEATURES
-- Generates random password
-- User can choose the password length
-- Uses letters, numbers and special characters
+- Addition(+)
+- Subtraction(-)
+- Multiplication(*)
+- Division(/)
+- Division by zero handling
